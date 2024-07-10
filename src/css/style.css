@@ -5,6 +5,7 @@
 body {
     background-color: #000000; 
     overflow: hidden;
+    height: 100vh;
 }
 
 main::after {
@@ -40,7 +41,7 @@ main .personagem .imagem {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 100vh;
+    height: 100vh;
     max-width: 380px;
     z-index: 1;
 }
