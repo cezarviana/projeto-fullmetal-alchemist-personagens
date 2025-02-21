@@ -15,7 +15,7 @@ main::after {
     left: 0;
     min-height: 100vh;
     width: 80vw;
-    background: linear-gradient(-233deg, rgba(0, 0, 0, 0.8) 30%, rgba(0, 0, 0, 0) 65%) no-repeat;
+    background: linear-gradient(-233deg, rgba(0, 0, 0, 0.5) 15%, rgba(0, 0, 0, 0) 35%) no-repeat;
 }
 
 main .personagem {
@@ -38,6 +38,7 @@ main .personagem .imagem {
     top: 0;
     left: 120px;
     
+
     display: flex;
     flex-direction: column;
     justify-content: center;

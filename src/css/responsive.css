@@ -59,11 +59,19 @@
     main .personagem .imagem {
         height: auto;
     }
-
+    
+    main::after {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        min-height: 100vh;
+        background: linear-gradient(-233deg, rgba(0, 0, 0, 0.5) 15%, rgba(0, 0, 0, 0) 25%) no-repeat;
+    }
+    
     .conteudo {
         position: fixed;
         top: 0;
-
         max-height: 100vh;
         height: 80vh;
         padding: 30px;
@@ -81,7 +89,6 @@
 
     .botoes {
         position: inherit;
-
         display: flex;
         align-items: center;
         min-height: 10vh;

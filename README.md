@@ -5,9 +5,11 @@ O projeto tem como base os personagens do anime Full Metal Alchemist, cada pági
 
 [Link do projeto](https://cezarviana.github.io/projeto-fullmetal-alchemist-personagens/)
 
-[<img src="src/imagens/fullmetalAlchemist.gif" alt="gif da tela do site">](https://cezarviana.github.io/projeto-fullmetal-alchemist-personagens/)
-</br></br>
-<img src="src/imagens/fma-mobile.gif" alt="gif da tela do site mobile" style="text-align: center;">
+## Imagens do Design criado
+<div align="center">
+<img src="src/imagens/fullmetalAlchemist.gif"  style="height: 400px; text-align: center;"> <br><br>
+<img src="src/imagens/fma-mobile.gif"  style="height: 400px; text-align: center;">
+</div>
 
 ## Tecnologias utilizadas
 - HTML
