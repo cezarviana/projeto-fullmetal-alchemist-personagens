@@ -4,14 +4,6 @@
         width: 100vw;
     }
 
-    body{
-        background-color: rgb(61, 58, 58);
-    }
-
-    main .personagem .imagem {
-        height: 85%;
-    }
-
     .conteudo {
         justify-content: flex-end;
         left: 0;
@@ -31,6 +23,7 @@
     .botoes {
         flex-direction: row;
         align-items: flex-end;
+        background-color: rgba(0, 0, 0, 0.3);
         width: 100%;
         padding: 30px;
     }
@@ -59,10 +52,6 @@
 
     main{
         height: 80vh;
-    }
-    
-    main .personagem .imagem {
-        height: auto;
     }
     
     main::after {
