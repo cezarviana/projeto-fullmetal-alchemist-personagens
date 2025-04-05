@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #000000; 
+    background-color: #000000;
     overflow: hidden;
     height: 100vh;
 }
@@ -19,8 +19,8 @@ main::after {
 }
 
 main .personagem {
-    display: none; 
-    height: 100vh;   
+    display: none;
+    height: 100vh;
 }
 
 main .personagem.selecionado {
@@ -104,10 +104,30 @@ main .personagem .imagem {
     height: 90px;
 }
 
-.botoes .selecionado {
-    transform: scale(1.3);
+.botoes .edward.selecionado {
+    box-shadow: 0 0 10px #dd0505;
+}
+
+.botoes .alphonse.selecionado {
+    box-shadow: 0 0 10px #dd0505;
+}
+
+.botoes .winry.selecionado {
     box-shadow: 0 0 10px #d9d9d9;
 }
+
+.botoes .roy.selecionado {
+    box-shadow: 0 0 10px #dd5b05;
+}
+
+.botoes .riza.selecionado {
+    box-shadow: 0 0 10px #dd5b05;
+}
+
+.botoes .selecionado {
+    transform: scale(1.3);
+}
+
 
 footer {
     position: absolute;
@@ -115,7 +135,7 @@ footer {
     height: 150px;
     padding: 10px;
     bottom: 0%;
-    display: flex; 
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -125,11 +145,18 @@ footer {
 }
 
 .footer-logo {
-   height: 100px;
-   animation: logo-rotation 8s infinite ease-in-out;
+    height: 100px;
+    animation: logo-rotation 8s infinite ease-in-out;
 }
 
 @-webkit-keyframes logo-rotation {
-    0% {-webkit-transform: rotate(0deg); opacity: 1; }
-    100% {-webkit-transform: rotate(360deg); opacity: 1; }
+    0% {
+        -webkit-transform: rotate(0deg);
+        opacity: 1;
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        opacity: 1;
+    }
 }
