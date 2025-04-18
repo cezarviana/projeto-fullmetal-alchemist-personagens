@@ -12,8 +12,8 @@ Acesse o site aqui: [Projeto Fullmetal Alchemist Personagens](https://cezarviana
 
 ## 🛠️ Ferramentas utilizadas
 - **HTML:** Estruturação do projeto
-- **CSS:** Estilização do projeto, responsivo e menu hamburguer
-- **JavaScript:** Campos de busca, procura e entrega dos itens buscados em tela
+- **CSS:** Estilização do projeto, responsivo
+- **JavaScript:** Seleção de personagens através de `click` em botões
 - **Git:** Ferramenta de versionamento
 
 ## 🎨 Imagens do projeto
