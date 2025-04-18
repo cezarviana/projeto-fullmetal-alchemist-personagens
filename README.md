@@ -34,12 +34,10 @@ Acesse o site aqui: [Projeto Fullmetal Alchemist Personagens](https://cezarviana
 - Cada personagem tem um botão próprio que faz refência com sua história no anime.
 
 4. **Nomes na língua original**
-- Achei que seria interessante inserir além dos nomes traduzido, os nomes originais em japonês na forma de Katakana ("Alfabeto" para palavras de origem estrangeiras urilizado no Japão).**Nomes na língua original**
-- Achei que seria interessante inserir além dos nomes traduzido, os nomes originais em japonês na forma de Katakana ("Alfabeto" para palavras de origem estrangeiras urilizado no Japão). **Escolha da personalização dos Botões**
-- Cada personagem tem um botão próprio que faz refência com sua história no anime.
+- Achei que seria interessante inserir além dos nomes traduzido, os nomes originais em japonês na forma de Katakana ("Alfabeto" para palavras de origem estrangeiras urilizado no Japão).
 
 ## 💦 Dificuldades do projeto
-- Encontrar imagens para o background em boa qualidade que preenchesse o formato 1920x1080p.
+- Encontrar imagens para o background em boa qualidade que preenchesse o formato Full HD (1920x1080p).
 - Ajustar as imagens do background para o formato mobile (Melhorar aqui).
 
 ## 🔓 O que eu aprendi
