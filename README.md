@@ -36,6 +36,9 @@ Acesse o site aqui: [Projeto Fullmetal Alchemist Personagens](https://cezarviana
 4. **Nomes na língua original**
 - Achei que seria interessante inserir além dos nomes traduzido, os nomes originais em japonês na forma de Katakana ("Alfabeto" para palavras de origem estrangeiras urilizado no Japão).
 
+5. **Fontes**
+- [Merriweather](https://fonts.google.com/specimen/Merriweather).
+
 ## 💦 Dificuldades do projeto
 - Encontrar imagens para o background em boa qualidade que preenchesse o formato Full HD (1920x1080p).
 - Ajustar as imagens do background para o formato mobile (Melhorar aqui).
